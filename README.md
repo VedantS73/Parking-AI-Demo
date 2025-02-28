@@ -1,2 +1,1 @@
-# ParkAi
-hack JMI 2025 
+Digital Jam 2025
